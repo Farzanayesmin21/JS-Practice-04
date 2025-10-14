@@ -5,3 +5,4 @@ function toUpperCase(name){
    
 }
 console.log(toUpperCase("Naeeim"));
+
