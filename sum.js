@@ -1,6 +1,6 @@
 function sumTwoNumbers(a,b){
     let sum= a+b;
-    console.log("Sum is",+sum)
+    console.log("Sum is",sum)
     
 
 }
